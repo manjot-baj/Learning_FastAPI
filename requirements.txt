@@ -1,6 +1,7 @@
 annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.15.1
+ast_serialize==0.13.1
 asyncio==4.0.0
 click==8.5.0
 dnspython==2.9.0
@@ -8,7 +9,11 @@ email-validator==2.3.0
 fastapi==0.143.1
 h11==0.16.0
 idna==3.20
+librt==0.16.0
+mypy==2.4.1
+mypy_extensions==1.1.0
 opentelemetry-api==1.45.1
+pathspec==1.1.1
 pydantic==2.14.1
 pydantic_core==2.50.1
 starlette==1.8.0
